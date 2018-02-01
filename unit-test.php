@@ -10,7 +10,7 @@ require_once(dirname(__DIR__ . "autoload.php"));
  * Full PHPUnit test for the Blog class
  *
  * This is a complete PHPUnit test of the Blog class. It is complete because *ALL* mySQL/PDO enabled methods
- * are tested for both invalid and valid inputs.
+ * are tested for both invalid and valid inputs.Definition of SETUP:Setup: A function that sets up testing conditions to be run before the unit test is executed
  *
  * @see Blog
  * @author Dylan McDonald <dmcdonald21@cnm.edu>
